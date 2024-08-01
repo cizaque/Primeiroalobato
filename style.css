@@ -1,4 +1,7 @@
-
+*{
+    margin: 0%;
+    padding: 0%;
+}
 body {
     background: linear-gradient(to right,#2e23cc,#6372c4,#409183,#23e7e7)
 }
